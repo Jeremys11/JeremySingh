@@ -5,14 +5,7 @@
 I am a Machine Learning Engineer with a strong background in research methodologies and data visualization. I have successfully created models with both structured and unstructured data.
 
 ##Skills and Tools: 
-  *Python
-  *Machine Learning 
-  *Natural Language Processing
-  *Scikit-learn 
-  *Tensorflow 
-  *R (programming language) 
-  *Flask 
-  *Web Development
+Python, Machine Learning , Natural Language Processing, Scikit-learn, Tensorflow, R (programming language), Flask, Web Development
 
 
 
