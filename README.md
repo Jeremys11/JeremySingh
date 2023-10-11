@@ -12,3 +12,5 @@ Python, Machine Learning , Natural Language Processing, Scikit-learn, Tensorflow
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jeremys11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jeremysingh116//)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeremys11&show_icons=true)  
+
+https://github.com/Jeremys11/Slang-and-Jargon-Analysis/edit/master/README.md
